@@ -14,7 +14,7 @@ npm i @axolo/egg-dingtalk-isv --save
 // {app_root}/config/plugin.js
 exports.dingtalkIsv = {
   enable: true,
-  package: 'egg-dingtalk-isv',
+  package: '@axolo/egg-dingtalk-isv',
 };
 ```
 
@@ -28,7 +28,7 @@ exports.dingtalkIsv = {
 
 ## Documents
 
-Please open an document [here](./docs).
+Please open an document [here](https://axolo.github.io/egg-dingtalk-isv).
 
 ## Questions & Suggestions
 

@@ -14,7 +14,7 @@ npm i @axolo/egg-dingtalk-isv --save
 // config/plugin.js
 exports.dingtalkIsv = {
   enable: true,
-  package: 'egg-dingtalk-isv',
+  package: '@axolo/egg-dingtalk-isv',
 };
 ```
 
@@ -24,7 +24,7 @@ exports.dingtalkIsv = {
 
 ## 接口文档
 
-请访问 [docs](./docs) 查看接口文档.
+请访问 [docs](https://axolo.github.io/egg-dingtalk-isv/) 查看接口文档.
 
 ## 提问交流
 
